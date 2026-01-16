@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.bio-image }}{% endif %})
 
-<p align="justify"><strong>Henrique Oliveira Marques</strong> received his Bachelor's degree in Computer Science from the Federal University of Mato Grosso, Brazil, in 2013. He obtained his MSc and PhD degrees in Computer Science and Computational Mathematics from the University of São Paulo, Brazil, in 2015 and 2019, respectively. During his PhD, he served as a Visiting Researcher at the University of Alberta, Canada (Sep/2017 - Aug/2018), where he returned later as a Postdoctoral Fellow from Jan/2020 to Feb/2021. Since Oct/2021, he has been working as a Postdoctoral Fellow at the University of Southern Denmark.</p>
+<p align="justify"><strong>Henrique Oliveira Marques</strong> received his Bachelor’s degree in Computer Science from the Federal University of Mato Grosso, Brazil, in 2013, and his MSc and PhD degrees in Computer Science and Computational Mathematics from the University of São Paulo, Brazil, in 2015 and 2019, respectively. During his PhD, he was a Visiting Researcher at the University of Alberta, Canada (Sep 2017–Aug 2018), where he later returned as a Postdoctoral Fellow (Jan 2020 to Feb 2021). He subsequently served as a Postdoctoral Fellow at the University of Southern Denmark from Oct 2021 to Dec 2024, and as a Visiting Researcher from Jan 2025 to Dec 2025.</p>
 
 <!-- <h2>Skills</h2>
 
